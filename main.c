@@ -15,12 +15,12 @@ void ermek_generalasa(int szint)
             int min, max, db, oldal, szorzo;
         }fajta[4];
     }ermeszint[MAXLEVEL];
-    FILE *adat = fopen("ermetabla.dat", "r");
+    FILE *ermeadat = fopen("ermetabla.dat", "r");
     for(int sz = 0; sz < MAXLEVEL; sz++)
     {
         for(int f = 0; f < 4; f++)
         {
-            fscanf(adat,
+            fscanf(ermeadat,
                    "%d %d %d %d %d",
                    &ermeszint[sz].fajta[f].min,
                    &ermeszint[sz].fajta[f].max,
@@ -30,7 +30,7 @@ void ermek_generalasa(int szint)
             );
         }
     }
-    fclose(adat);
+    fclose(ermeadat);
 
     int d100 = dob((Dobas){1, 100});
     for(int f = 3; f >= 0; f--)
