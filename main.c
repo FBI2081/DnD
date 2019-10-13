@@ -16,7 +16,7 @@ int dobas(int a, int b)
 
 typedef struct
 {
-
+ //szia
 }taska;
 
 void ermek_generalasa(int szint)
