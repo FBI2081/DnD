@@ -2,22 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 
+#include "kocka.h"
+
 #define MAXLEVEL 20
-
-int dobas(int a, int b)
-{
-    int osszeg = 0;
-    for(int i = 0; i < a; i++)
-    {
-        osszeg += rand()%b +1;
-    }
-    return osszeg;
-}
-
-typedef struct
-{
- //szia
-}taska;
 
 void ermek_generalasa(int szint)
 {
@@ -45,10 +32,10 @@ void ermek_generalasa(int szint)
     }
     fclose(adat);
 
-    int d100 = dobas(1, 100);
-    for(int f=3; f>=0; f--)
+    int d100 = dob((Dobas){1, 100});
+    for(int f = 3; f >= 0; f--)
     {
-        if(d100>=ermeszint[szint].fajta[f].min)
+        if(d100 >= ermeszint[szint].fajta[f].min)
         {
             //todo inventoryhoz hozzáadni a megfelelőt.
             break;
