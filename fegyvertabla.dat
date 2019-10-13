@@ -4,30 +4,30 @@ Egyszerű Fegyverek – közelharc
 		Tőr 2 arany 1d4 ×2 10 láb 1 font Szúró
 		Tőr, öklöző 2 arany 1d4 ×3 -1 láb 2 font Szúró
 	Kis méretű
-		Buzogány, könnyű 5 arany 1d6 ×2 6 font Zúzó
-		Sarló 6 arany 1d6 ×2 3 font Vágó
+		Buzogány, könnyű 5 arany 1d6 ×2 -1 láb 6 font Zúzó
+		Sarló 6 arany 1d6 ×2 -1 láb 3 font Vágó
 	Közepes méretű
-		Buzogány, nehéz 12 arany 1d8 ×2 12 font Zúzó
-		Buzogány, szöges 8 arany 1d8 ×2 8 font Zúzó és szúró
+		Buzogány, nehéz 12 arany 1d8 ×2 -1 láb 12 font Zúzó
+		Buzogány, szöges 8 arany 1d8 ×2 -1 láb 8 font Zúzó és szúró
 		Dárda, feles 1 arany 1d6 ×3 20 láb 3 font Szúró
 		Husáng 0 réz 1d6 ×2 10 láb 3 font Zúzó
 	Nagy méretű
 		Dárda, rövid 2 arany 1d8 ×3 20 láb 5 font Szúró
-		Kasza 2 arany 1d6 ×2 - 2 font Vágó
-		Vándorbot 0 réz 1d6/1d6 ×2 - 4 font Zúzó
+		Kasza 2 arany 1d6 ×2 -1 láb 2 font Vágó
+		Vándorbot 0 réz 1d6/1d6 ×2 -1 láb 4 font Zúzó
 Egyszerű Fegyverek – távolsági harc
 	Kis méretű
-		Dobónyíl 5 ezüst 1d4 ×2 20 láb 1⁄2 font Szúró
-		Parittya - 1d4 ×2 50 láb 0 font Zúzó
+		Dobónyíl 5 ezüst 1d4 ×2 20 láb 0.5 font Szúró
+		Parittya 0 réz 1d4 ×2 50 láb 0 font Zúzó
 		//Parittya lövedék (10) 1 ezüst - - - 5 font - Játékosok Könyve
 		Számszeríj, könnyű 35 arany 1d8 19-20/×2 80 láb 6 font Szúró Játékosok Könyve
-		Számszeríj vesszők (10) 1 arany - - - 1 font - Játékosok Könyve
+		//Számszeríj vesszők (10) 1 arany - - - 1 font - Játékosok Könyve
 	Közepes méretű
 		Gerely 1 arany 1d6 ×2 30 láb 2 font Szúró Játékosok Könyve
 		Számszeríj, mászóvasas * 70 arany 1d3 - 120 láb 12 font Szúró Dal és Csend
 		Lövedék, mászóvas (10) * 200 arany - - - 8 font - Dal és Csend
 		Számszeríj, nehéz 50 arany 1d10 19-20/×2 120 láb 9 font Szúró Játékosok Könyve
-		Számszeríj vesszők (10) 1 arany - - - 1 font - Játékosok Könyve
+		//Számszeríj vesszők (10) 1 arany - - - 1 font - Játékosok Könyve
 Harci Fegyverek – közelharc
 	Kis méretű
 		Bajonett * 5 arany 1d4 19-20/×2 - 2 font Szúró Dal és Csend
