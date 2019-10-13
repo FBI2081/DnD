@@ -1,193 +1,173 @@
-Egyszerű Fegyverek – közelharc
+Egyszerű Fegyverek - közelharc
 	Pöttöm méretű
-		Kesztyű, szöges 5 arany 1d4 x2 -1 láb 2 font Szúró
-		Tőr 2 arany 1d4 ×2 10 láb 1 font Szúró
-		Tőr, öklöző 2 arany 1d4 ×3 -1 láb 2 font Szúró
+		Kesztyű, szöges	5 arany	1d4	x2	-	2 font	Szúró	-
+		Tőr	2 arany	1d4	x2	10 láb	1 font	Szúró	-
+		Tőr, öklöző	2 arany	1d4	x3	-	2 font	Szúró	-
 	Kis méretű
-		Buzogány, könnyű 5 arany 1d6 ×2 -1 láb 6 font Zúzó
-		Sarló 6 arany 1d6 ×2 -1 láb 3 font Vágó
+		Buzogány, könnyű	5 arany	1d6	x2	-	6 font	Zúzó	-
+		Sarló	6 arany	1d6	x2	-	3 font	Vágó	-
 	Közepes méretű
-		Buzogány, nehéz 12 arany 1d8 ×2 -1 láb 12 font Zúzó
-		Buzogány, szöges 8 arany 1d8 ×2 -1 láb 8 font Zúzó és szúró
-		Dárda, feles 1 arany 1d6 ×3 20 láb 3 font Szúró
-		Husáng 0 réz 1d6 ×2 10 láb 3 font Zúzó
+		Buzogány, nehéz	12 arany	1d8	x2	-	12 font	Zúzó	-
+		Buzogány, szöges	8 arany	1d8	x2	-	8 font	Zúzó és szúró	-
+		Dárda, feles	1 arany	1d6	x3	20 láb	3 font	Szúró	-
+		Husáng	0 réz	1d6	x2	10 láb	3 font	Zúzó	-
 	Nagy méretű
-		Dárda, rövid 2 arany 1d8 ×3 20 láb 5 font Szúró
-		Kasza 2 arany 1d6 ×2 -1 láb 2 font Vágó
-		Vándorbot 0 réz 1d6/1d6 ×2 -1 láb 4 font Zúzó
-Egyszerű Fegyverek – távolsági harc
+		Dárda, rövid	2 arany	1d8	x3	20 láb	5 font	Szúró	-
+		Kasza	2 arany	1d6	x2	-	2 font	Vágó	-
+		Vándorbot	0 réz	1d6/1d6	x2	-	4 font	Zúzó	-
+Egyszerű Fegyverek - távolsági harc
 	Kis méretű
-		Dobónyíl 5 ezüst 1d4 ×2 20 láb 0.5 font Szúró
-		Parittya 0 réz 1d4 ×2 50 láb 0 font Zúzó
-		//Parittya lövedék (10) 1 ezüst - - - 5 font - Játékosok Könyve
-		Számszeríj, könnyű 35 arany 1d8 19-20/×2 80 láb 6 font Szúró Játékosok Könyve
-		//Számszeríj vesszők (10) 1 arany - - - 1 font - Játékosok Könyve
+		Dobónyíl	5 ezüst	1d4	x2	20 láb	0.5 font	Szúró	-
+		Parittya	0 réz	1d4	x2	50 láb	0 font	Zúzó	Parittya lövedék
+		Számszeríj, könnyű	35 arany	1d8	19-20/x2	80 láb	6 font	Szúró	Számszeríj vesszők, kicsi
 	Közepes méretű
-		Gerely 1 arany 1d6 ×2 30 láb 2 font Szúró Játékosok Könyve
-		Számszeríj, mászóvasas * 70 arany 1d3 - 120 láb 12 font Szúró Dal és Csend
-		Lövedék, mászóvas (10) * 200 arany - - - 8 font - Dal és Csend
-		Számszeríj, nehéz 50 arany 1d10 19-20/×2 120 láb 9 font Szúró Játékosok Könyve
-		//Számszeríj vesszők (10) 1 arany - - - 1 font - Játékosok Könyve
-Harci Fegyverek – közelharc
+		Gerely	1 arany	1d6	x2	30 láb	2 font	Szúró	-
+		Számszeríj, mászóvasas	70 arany	1d3	-	120 láb	12 font	Szúró	Lövedék, mászóvas
+		Számszeríj, nehéz	50 arany	1d10	19-20/x2	120 láb	9 font	Szúró	Számszeríj vesszők, kicsi
+Harci Fegyverek - közelharc
 	Kis méretű
-		Bajonett * 5 arany 1d4 19-20/×2 - 2 font Szúró Dal és Csend
-		Csákány, könnyű 4 arany 1d4 ×4 - 4 font Szúró Játékosok Könyve
-		Gladius 10 arany 1d6 19-20/×2 - 3 font Szúró Kard és Ököl
-		Hajítóbárd 8 arany 1d6 ×2 10 láb 4 font Vágó Játékosok Könyve
-		Kalapács, könnyű * 1 arany 1d4 ×2 20 láb 2 font Zúzó Játékosok Könyve
-		Kard, rövid 10 arany 1d6 19-20/×2 - 3 font Szúró Játékosok Könyve
-		Lándzsa, könnyű * 6 arany 1d6 ×3 - 5 font Szúró Játékosok Könyve
-		Szekerce 6 arany 1d6 ×3 - 5 font Vágó Játékosok Könyve
-		Tengerészkard 15 arany 1d6 19-20/×2 - 3 font Szúró és vágó Forgotten Realms
-		Ütleg 1 arany 1d6 ×2 - 3 font Zúzó Játékosok Könyve
+		Bajonett	5 arany	1d4	19-20/x2	-	2 font	Szúró	-
+		Csákány, könnyű	4 arany	1d4	x4	-	4 font	Szúró	-
+		Gladius	10 arany	1d6	19-20/x2	-	3 font	Szúró	-
+		Hajítóbárd	8 arany	1d6	x2	10 láb	4 font	Vágó	-
+		Kalapács, könnyű	1 arany	1d4	x2	20 láb	2 font	Zúzó	-
+		Kard, rövid	10 arany	1d6	19-20/x2	-	3 font	Szúró	-
+		Lándzsa, könnyű	6 arany	1d6	x3	-	5 font	Szúró	-
+		Szekerce	6 arany	1d6	x3	-	5 font	Vágó	-
+		Tengerészkard	15 arany	1d6	19-20/x2	-	3 font	Szúró és vágó	-
+		Ütleg	1 arany	1d6	x2	-	3 font	Zúzó	-
 	Közepes méretű
-		Buzogány, könnyű láncos * 8 arany 1d8 ×2 - 5 font Zúzó Játékosok Könyve
-		Csákány, nehéz 8 arany 1d6 ×4 - 6 font Szúró Játékosok Könyve
-		Csatabárd 10 arany 1d8 ×3 - 7 font Vágó Játékosok Könyve
-		Szablya 15 arany 1d6 18-20/×2 - 4 font Vágó Játékosok Könyve
-		Szablya, nomád 20 arany 1d8 19-20/×2 - 4 font Vágó Forgotten Realms
-		Hosszúkard 15 arany 1d8 19-20/×2 - 4 font Vágó Játékosok Könyve
-		Kalapács, harci * 12 arany 1d8 ×3 - 8 font Zúzó Játékosok Könyve
-		Kard, fattyú * 35 arany 1d10 19-20/×2 - 10 font Vágó Játékosok Könyve
-		Kard, szélespengéjű (Északi kard) 15 arany 1d8 19-20/×2 - 4 font Vágó Kard és Ököl
-		Lándzsa, nehéz *† 10 arany 1d8 ×3 - 10 font Szúró Játékosok Könyve
-		Szigony * 15 arany 1d8 ×2 10 láb 5 font Szúró Játékosok Könyve
-		Vívótőr 20 arany 1d6 18-20/×2 - 3 font Szúró Játékosok Könyve
+		Buzogány, könnyű láncos	8 arany	1d8	x2	-	5 font	Zúzó	-
+		Csákány, nehéz	8 arany	1d6	x4	-	6 font	Szúró	-
+		Csatabárd	10 arany	1d8	x3	-	7 font	Vágó	-
+		Szablya	15 arany	1d6	18-20/x2	-	4 font	Vágó	-
+		Szablya, nomád	20 arany	1d8	19-20/x2	-	4 font	Vágó	-
+		Hosszúkard	15 arany	1d8	19-20/x2	-	4 font	Vágó	-
+		Kalapács, harci	12 arany	1d8	x3	-	8 font	Zúzó	-
+		Kard, fattyú	35 arany	1d10	19-20/x2	-	10 font	Vágó	-
+		Kard, szélespengéjű (Északi kard)	15 arany	1d8	19-20/x2	-1 font	4 font	Vágó	-
+		Lándzsa, nehéz	10 arany	1d8	x3	-	10 font	Szúró	-
+		Szigony	15 arany	1d8	x2	10 láb	5 font	Szúró	-
+		Vívótőr	20 arany	1d6	18-20/x2	-	3 font	Szúró	-
 	Nagy méretű
-		Alabárd *« 10 arany 1d10 ×3 - 15 font Szúró és vágó Játékosok Könyve
-		Bárd, kétkezes 20 arany 1d12 ×3 - 20 font Vágó Játékosok Könyve
-		Buzogány, nehéz láncos * 15 arany 1d10 19-20/×2 - 20 font Zúzó Játékosok Könyve
-		Claymore 50 arany 2d6 19-20/×2 - 15 font Vágó Kard és Ököl
-		Dárda, hosszú *† 5 arany 1d8 ×3 - 9 font Szúró Játékosok Könyve
-		Farkaskasza 5 arany 1d8 ×3 - 7 font Szúró és vágó AD&D PHB
-		Flamberge 50 arany 2d6 19-20/×2 - 15 font Vágó Kard és Ököl
-		Husáng, kétkezes 5 arany 1d10 ×2 - 10 font Zúzó Játékosok Könyve
-		Kard, kétkezes 50 arany 2d6 19-20/×2 - 15 font Vágó Játékosok Könyve
-		Kasza 18 arany 2d4 ×4 - 12 font Szúró és vágó Játékosok Könyve
-		Pika 5 arany 1d8 ×3 - 12 font Szúró AD&D PHB
-		Runka *† 10 arany 2d4 ×3 - 15 font Szúró Játékosok Könyve
-		Handzsár 75 arany 2d4 18-20/×2 - 16 font Vágó Játékosok Könyve
-		Spétum 5 arany 2d4 ×3 - 7 font Szúró AD&D PHB
-		Sulyok 15 arany 1d10 ×3 - 20 font Zúzó Forgotten Realms
-		Szeldelőnyárs *† 8 arany 1d10 ×3 - 15 font Vágó Játékosok Könyve
-		Zsigerelő *† 9 arany 2d4 ×3 - 15 font Vágó Játékosok Könyve
-Harci Fegyverek – távolsági harc
+		Alabárd	10 arany	1d10	x3	-	15 font	Szúró és vágó	-
+		Bárd, kétkezes	20 arany	1d12	x3	-	20 font	Vágó	-
+		Buzogány, nehéz láncos	15 arany	1d10	19-20/x2	-	20 font	Zúzó	-
+		Claymore	50 arany	2d6	19-20/x2	-	15 font	Vágó	-
+		Dárda, hosszú	5 arany	1d8	x3	-	9 font	Szúró	-
+		Farkaskasza	5 arany	1d8	x3	-	7 font	Szúró és vágó	-
+		Flamberge	50 arany	2d6	19-20/x2	-	15 font	Vágó	-
+		Husáng, kétkezes	5 arany	1d10	x2	-	10 font	Zúzó	-
+		Kard, kétkezes	50 arany	2d6	19-20/x2	-	15 font	Vágó	-
+		Kasza	18 arany	2d4	x4	-	12 font	Szúró és vágó	-
+		Pika	5 arany	1d8	x3	-	12 font	Szúró	-
+		Runka	10 arany	2d4	x3	-	15 font	Szúró	-
+		Handzsár	75 arany	2d4	18-20/x2	-	16 font	Vágó	-
+		Spétum	5 arany	2d4	x3	-	7 font	Szúró	-
+		Sulyok	15 arany	1d10	x3	-	20 font	Zúzó	-
+		Szeldelőnyárs	8 arany	1d10	x3	-	15 font	Vágó	-
+		Zsigerelő	9 arany	2d4	x3	-	15 font	Vágó	-
+Harci Fegyverek - távolsági harc
 	Közepes méretű
-		Rövidíj * 30 arany 1d6 ×3 60 láb 2 font Szúró Játékosok Könyve
-		Nyílvesszők (20) * 1 arany - - - 3 font - Játékosok Könyve
-		Rövidíj, összetett * 75 arany 1d6 ×3 70 láb 2 font Szúró Játékosok Könyve
-		Nyílvesszők (20) * 1 arany - - - 3 font - Játékosok Könyve
-		Rövidíj, visszacsapó *
-			+1 Erő-bónusz 150 arany 1d6 ×3 70 láb 2 font Szúró Játékosok Könyve
-			+2 Erő-bónusz 225 arany 1d6 ×3 70 láb 2 font Szúró Játékosok Könyve
+		Rövidíj	30 arany	1d6	x3	60 láb	2 font	Szúró	Nyílvesszők
+		Rövidíj, összetett	75 arany	1d6	x3	70 láb	2 font	Szúró 	Nyílvesszők
+		Rövidíj, visszacsapó +1 Erő-bónusz	150 arany	1d6	x3	70 láb	2 font	Szúró 	Nyílvesszők
+		Rövidíj, visszacsapó +2 Erő-bónusz	225 arany	1d6	x3	70 láb	2 font	Szúró 	Nyílvesszők
 	Nagy méretű
-		Hosszúíj * 75 arany 1d8 ×3 100 láb 3 font Szúró Játékosok Könyve
-		Nyílvesszők (20) * 1 arany - - - 3 font - Játékosok Könyve
-		Hosszúíj, összetett * 100 arany 1d8 ×3 100 láb 3 font Szúró Játékosok Könyve
-		Nyílvesszők (20) * 1 arany - - - 3 font - Játékosok Könyve
-		Hosszúíj, visszacsapó *
-			+1 Erő-bónusz 200 arany 1d8 ×3 100 láb 3 font Szúró Játékosok Könyve
-			+2 Erő-bónusz 300 arany 1d8 ×3 100 láb 3 font Szúró Játékosok Könyve
-			+3 Erő-bónusz 400 arany 1d8 ×3 100 láb 3 font Szúró Játékosok Könyve
-			+4 Erő-bónusz 500 arany 1d8 ×3 100 láb 3 font Szúró Játékosok Könyve
-Egzotikus Fegyverek – közelharc
+		Hosszúíj	75 arany	1d8	x3	100 láb	3 font	Szúró 	Nyílvesszők
+		Hosszúíj, összetett	100 arany	1d8	x3	100 láb	3 font	Szúró 	Nyílvesszők
+		Hosszúíj, visszacsapó +1 Erő-bónusz	200 arany	1d8	x3	100 láb	3 font	Szúró 	Nyílvesszők
+		Hosszúíj, visszacsapó +2 Erő-bónusz	300 arany	1d8	x3	100 láb	3 font	Szúró 	Nyílvesszők
+		Hosszúíj, visszacsapó +3 Erő-bónusz	400 arany	1d8	x3	100 láb	3 font	Szúró 	Nyílvesszők
+		Hosszúíj, visszacsapó +4 Erő-bónusz	500 arany	1d8	x3	100 láb	3 font	Szúró 	Nyílvesszők
+Egzotikus Fegyverek - közelharc
 	Pöttöm méretű
-		Csizmapenge 15 arany 1d4 19-20/×2 - 1 font Szúró Forgotten Realms
-		Csonk-kés 8 arany 1d4 19-20/×2 - 2 font Szúró Kard és Ököl
-		Csuklókarom 30 arany 1d4 19-20/×2 - 2 font Szúró Forgotten Realms
-		Hármas tőr 10 arany 1d4 19-20/×2 - 1 font Szúró Kard és Ököl
-		Jambiya 2 arany 1d4 ×2 10 láb 1 font Szúró Kard és Ököl
-		Kama, félszerzet * 2 arany 1d4 ×2 - 1 font Vágó Játékosok Könyve
-		Kukri 8 arany 1d4 18-20/×2 - 3 font Vágó Játékosok Könyve
-		Main-gauche 2 arany 1d4 ×2 10 láb 1 font Szúró Kard és Ököl
-		Nuncsaku, félszerzet * 2 arany 1d4 ×2 - 1 font Zúzó Játékosok Könyve
-		Siangham, félszerzet * 2 arany 1d4 ×2 - 1 font Szúró Játékosok Könyve
+		Csizmapenge	15 arany	1d4	19-20/x2	-	1 font	Szúró	-
+		Csonk-kés	8 arany	1d4	19-20/x2	-	2 font	Szúró	-
+		Csuklókarom	30 arany	1d4	19-20/x2	-	2 font	Szúró	-
+		Hármas tőr	10 arany	1d4	19-20/x2	-	1 font	Szúró	-
+		Jambiya	2 arany	1d4	x2	10 láb	1 font	Szúró	-
+		Kama, félszerzet	2 arany	1d4	x2	-	1 font	Vágó	-
+		Kukri	8 arany	1d4	18-20/x2	-	3 font	Vágó	-
+		Main-gauche	2 arany	1d4	x2	10 láb	1 font	Szúró	-
+		Nuncsaku, félszerzet	2 arany	1d4	x2	-	1 font	Zúzó	-
+		Siangham, félszerzet	2 arany	1d4	x2	-	1 font	Szúró	-
 	Kis méretű
-		Csatacsákány, gnóm 10 arany 1d6 ×4 - 5 font Szúró Kard és Ököl
-		Fojtóhurok, sodort 1 ezüst 1d6 ‹ 19-20/×2 - 1/10 font Vágó Dal és Csend
-		Fojtóhurok, záras 100 arany 1d8 ‹ 18-20/×2 - 3 font Vágó Dal és Csend
-		Fojtóhurok, drót 10 arany 1d8 ‹ 18-20/×2 - 1 font Vágó Dal és Csend
-		Harci legyező 30 arany 1d6 ×3 - 3 font Vágó Kard és Ököl
-		Ingujj, súlyozott ç 5 ezüst 1d4 - - 2 1⁄2 font Zúzó Dal és Csend
-		Kama * 2 arany 1d6 ×2 - 2 font Vágó Játékosok Könyve
-		Ninja-to 10 arany 1d6 19-20/×2 - 3 font Szúró Kard és Ököl
-		Nuncsaku * 2 arany 1d6 ×2 - 2 font Zúzó Játékosok Könyve
-		Pengekesztyű 30 arany 1d6 17-20/×2 - 4 font Vágó Kard és Ököl
-		Scramasax (Sax) 10 arany 1d6 19-20/×2 - 3 font Szúró Kard és Ököl
-		Siangham * 3 arany 1d6 ×2 - 1 font Szúró Játékosok Könyve
-		Wakizashi ł 300 arany 1d6 19-20/×2 - 3 font Vágó Mesélők Könyve
+		Csatacsákány, gnóm	10 arany	1d6	x4	-	5 font	Szúró	-
+		Fojtóhurok, sodort	1 ezüst	1d6	19-20/x2	-	1/10 font	Vágó	-
+		Fojtóhurok, záras	100 arany	1d8	18-20/x2	-	3 font	Vágó	-
+		Fojtóhurok, drót	10 arany	1d8	18-20/x2	-	1 font	Vágó	-
+		Harci legyező	30 arany	1d6	x3	-	3 font	Vágó	-
+		Ingujj, súlyozott	5 ezüst	1d4	-	-	2.5 font	Zúzó	-
+		Kama	2 arany	1d6	x2	-	2 font	Vágó	-
+		Ninja-to	10 arany	1d6	19-20/x2	-	3 font	Szúró	-
+		Nuncsaku	2 arany	1d6	x2	-	2 font	Zúzó	-
+		Pengekesztyű	30 arany	1d6	17-20/x2	-	4 font	Vágó	-
+		Scramasax (Sax)	10 arany	1d6	19-20/x2	-	3 font	Szúró	-
+		Siangham	3 arany	1d6	x2	-	1 font	Szúró	-
+		Wakizashi	300 arany	1d6	19-20/x2	-	3 font	Vágó	-
 	Közepes méretű
-		Bárd, törpe harci * 30 arany 1d10 ×3 - 15 font Vágó Játékosok Könyve
-		Ingujj, súlyozott ç 5 ezüst 1d6 - - 2 1⁄2 font Zúzó Dal és Csend
-		Kalapács, gnóm kampós *‡ 20 arany 1d6/1d4 19-20/×2 - 6 font Zúzó és szúró Játékosok Könyve
-		Khopesh * 20 arany 1d8 19-20/×2 - 12 font Vágó Forgotten Realms
-		Kusari gama 10 arany 1d6 ×2 - 3 font Vágó Mesélők Könyve
-		Lánc és tőr 4 arany 1d4 19-20/×2 - 4 font Szúró Kard és Ököl
-		Merkúriumos hosszúkard 400 arany 1d10 ×3 - 6 font Vágó Kard és Ököl
+		Bárd, törpe harci	30 arany	1d10	x3	-	15 font	Vágó	-
+		Ingujj, súlyozott	5 ezüst	1d6	-	-	2.5 font	Zúzó	-
+		Kalapács, gnóm kampós	20 arany	1d6/1d4	19-20/x2	-	6 font	Zúzó és szúró	-
+		Khopesh	20 arany	1d8	19-20/x2	-	12 font	Vágó	-
+		Kusari gama	10 arany	1d6	x2	-	3 font	Vágó	-
+		Lánc és tőr	4 arany	1d4	19-20/x2	-	4 font	Szúró	-
+		Merkúriumos hosszúkard	400 arany	1d10	x3	-	6 font	Vágó	-
 	Nagy méretű
-		Ankus † 15 arany 2d4 ¢ ×2 - 15 font Zúzó A Vadon Mesterei
-		Bárd, kétfejű ork *‡ 60 arany 1d8/1d8 ×3 - 25 font Vágó Játékosok Könyve
-		Buzogány, kétfejű láncos *‡ 90 arany 1d8/1d8 ×2 - 20 font Zúzó Játékosok Könyve
-		Duóm 20 arany 1d8 ×3 - 8 font Szúró Kard és Ököl
-		Háromrészes bot 4 arany 1d8 ×3 - 8 font Zúzó Kard és Ököl
-		Kard, kétpengéjű *‡ 100 arany 1d8/1d8 19-20/×2 - 30 font Vágó Játékosok Könyve
-		Katana ł 400 arany 1d10 19-20/×2 - 6 font Vágó Mesélők Könyve
-		Lánc, szöges *† 25 arany 2d4 ×2 - 15 font Szúró Játékosok Könyve
-		Manti 15 arany 1d8 ×3 - 9 font Szúró Kard és Ököl
-		Markolatbuzogány 90 arany 1d8/1d8 19-20/×2 - 20 font Vágó és zúzó Kard és Ököl
-		Merkúriumos nagykard 600 arany 2d8 ×4 - 17 font Vágó Kard és Ököl
-		Nagimaki 10 arany 2d4 ×3 - 15 font Szúró Kard és Ököl
-		Nagypenge (Ogre kard) 100 arany 1d12 19-20/×2 - 23 font Vágó Kard és Ököl
-		Urgrosh, törpe ‡« 50 arany 1d8/1d6 ×3 - 15 font Vágó és szúró Játékosok Könyve
-Egzotikus Fegyverek – távolsági harc
+		Ankus	15 arany	2d4	x2	-	15 font	Zúzó	-
+		Bárd, kétfejű ork	60 arany	1d8/1d8	x3	-	25 font	Vágó	-
+		Buzogány, kétfejű láncos	90 arany	1d8/1d8	x2	-	20 font	Zúzó	-
+		Duóm	20 arany	1d8	x3	-	8 font	Szúró	-
+		Háromrészes bot	4 arany	1d8	x3	-	8 font	Zúzó	-
+		Kard, kétpengéjű	100 arany	1d8/1d8	19-20/x2	-	30 font	Vágó	-
+		Katana	400 arany	1d10	19-20/x2	-	6 font	Vágó	-
+		Lánc, szöges	25 arany	2d4	x2	-	15 font	Szúró	-
+		Manti	15 arany	1d8	x3	-	9 font	Szúró	-
+		Markolatbuzogány	90 arany	1d8/1d8	19-20/x2	-	20 font	Vágó	-
+		Merkúriumos nagykard	600 arany	2d8	x4	-	17 font	Vágó	-
+		Nagimaki	10 arany	2d4	x3	-	15 font	Szúró	-
+		Nagypenge (Ogre kard)	100 arany	1d12	19-20/x2	-	23 font	Vágó	-
+		Urgrosh, törpe	50 arany	1d8/1d6	x3	-	15 font	Vágó és szúró	-
+Egzotikus Fegyverek - távolsági harc
 	Pöttöm méretű
-		Csúszókő, félszerzet 3 arany 1d3 ×2 10 láb 1⁄4 font Zúzó Kard és Ököl
-		Fukimi-bari (szájdárda) 1 arany 1 ×2 10 láb 1/10 font Szúró Kard és Ököl
-		Shuriken * 1 arany 1 ×2 10 láb 1/10 font Szúró Játékosok Könyve
-	Számszeríj, kézi * 100 arany 1d4 19-20/×2 30 láb 3 font Szúró Játékosok Könyve
-	Számszeríj vesszők (10) * 1 arany - - - 1 font - Játékosok Könyve
+		Csúszókő, félszerzet	3 arany	1d3	x2	10 láb	1⁄4 font	Zúzó	-
+		Fukimi-bari (szájdárda)	1 arany	1	x2	10 láb	1/10 font	Szúró	-
+		Shuriken	1 arany	1	x2	10 láb	1/10 font	Szúró	-
+		Számszeríj, kézi	100 arany	1d4	19-20/x2	30 láb	3 font	Szúró	Számszeríj vesszők, kicsi
 	Kis méretű
-		Bóla, kétgolyós 5 arany 1d4* ×2 10 láb 2 font Zúzó Kard és Ököl
-		Chakram * 15 arany 1d4 ×3 30 láb 2 font Vágó Forgotten Realms
-		Ostor * 1 arany 1d2 ¢ ×2 15 láb 2 font Vágó Játékosok Könyve
-		Számszeríj, markolatos * 125 arany 1d4 19-20/×2 30 láb 4 font Szúró Dal és Csend
-		Számszeríj vesszők (5) 1 arany - - - 1 font - Dal és Csend
+		Bóla, kétgolyós	5 arany	1d4	x2	10 láb	2 font	Zúzó	-
+		Chakram	15 arany	1d4	x3	30 láb	2 font	Vágó	-
+		Ostor	1 arany	1d2	x2	15 láb	2 font	Vágó	-
+		Számszeríj, markolatos	125 arany	1d4	19-20/x2	30 láb	4 font	Szúró	Számszeríj vesszők, nagy
 	Közepes méretű
-		Forgó gerely 2 arany 1d8 19-20/×2 50 láb 2 font Szúró Kard és Ököl
-		Fúvócső * 1 arany 1 ×2 10 láb 2 font Szúró A Vadon Mesterei
-		Tű, fúvócsőbe (20) * 1 arany - - - ø - A Vadon Mesterei
-		Háló * 20 arany * * 10 láb* 10 font * Játékosok Könyve
-		Korbács * 20 arany 1d8 ×2 15 láb 2 font Vágó Forgotten Realms
-		Nagaika * 25 arany 1d6 ×3 15 láb 4 font Vágó A Vadon Mesterei
-		Rugós kesztyű 200 arany 1d4 ×2 20 láb 4 font Szúró Kard és Ököl
-		Számszeríj, csörlős * 75 arany 1d8 ¢ 19-20/×2 50 láb 10 font Szúró A Vadon Mesterei
-		Számszeríj vesszők (10) * 5 arany - - - 1⁄2 font - A Vadon Mesterei
-		Számszeríj, ismétlő * 250 arany 1d8 19-20/×2 80 láb 16 font Szúró Játékosok Könyve
-		Számszeríj vesszők (5) * 1 arany - - - 1 font - Játékosok Könyve
+		Forgó gerely	2 arany	1d8	19-20/x2	50 láb	2 font	Szúró	-
+		Fúvócső	1 arany	1	x2	10 láb	2 font	Szúró	Tű, fúvócsőbe
+		Háló	20 arany	0d0	x0	10 láb	10 font	-	-
+		Korbács	20 arany	1d8	x2	15 láb	2 font	Vágó	-
+		Nagaika	25 arany	1d6	x3	15 láb	4 font	Vágó	-
+		Rugós kesztyű	200 arany	1d4	x2	20 láb	4 font	Szúró	-
+		Számszeríj, csörlős	75 arany	1d8	19-20/x2	50 láb	10 font	Szúró 	Számszeríj vesszők, kicsi
+		Számszeríj, ismétlő	250 arany	1d8	19-20/x2	80 láb	16 font	Szúró 	Számszeríj vesszők, nagy
 	Nagy méretű
-		Daikyu íj (erő íj) 75 arany 1d8 ×3 100 láb 3 font Szúró Kard és Ököl
-		Nyílvesszők (20) 1 arany - - - 3 font - Kard és Ököl
-		Dobócölöp * 10 arany 2d6 ×2 10 láb 100 font Zúzó A Vadon Mesterei
-		Fúvócső, nagyobb 10 arany 1d4 ×2 10 láb 4 font Szúró A Vadon Mesterei
-		Dárdácska, fúvócsőbe (10) * 1 arany - - - 1 font - A Vadon Mesterei
-		Kilencfarkú macska 25 arany 1d6 19-20/×2 15 láb 3 font Vágó Kard és Ököl
-		Számszeríj, nagy 100 arany 1d12 19-20/×2 150 láb 15 font Szúró Kard és Ököl
-		Szigony 15 arany 1d10 ×2 30 láb 10 font Szúró Kard és Ököl
-		Tőrkorbács * 25 arany 1d6 19-20/×2 15 láb 3 font Vágó Kard és Ököl
-		Vetővas, ork 10 arany 2d6 19-20/×3 10 láb 15 font Zúzó Kard és Ököl
+		Daikyu íj (erő íj)	75 arany	1d8	x3	100 láb	3 font	Szúró	Nyílvesszők
+		Dobócölöp	10 arany	2d6	x2	10 láb	100 font	Zúzó	-
+		Fúvócső, nagyobb	10 arany	1d4	x2	10 láb	4 font	Szúró	Dárdácska, fúvócsőbe
+		Kilencfarkú macska	25 arany	1d6	19-20/x2	15 láb	3 font	Vágó	-
+		Számszeríj, nagy	100 arany	1d12	19-20/x2	150 láb	15 font	Szúró	-
+		Szigony	15 arany	1d10	x2	30 láb	10 font	Szúró	-
+		Tőrkorbács	25 arany	1d6	19-20/x2	15 láb	3 font	Vágó	-
+		Vetővas, ork	10 arany	2d6	19-20/x3	10 láb	15 font	Zúzó	-
 	Hatalmas méretű
-		Korbács, hatalmas *
-			+1 Erő-bónusz 200 arany 1d2 ¢ ×2 15 láb* 3 font Vágó Kard és Ököl
-			+2 Erő-bónusz 300 arany 1d2 ¢ ×2 15 láb* 4 font Vágó Kard és Ököl
-			+3 Erő-bónusz 400 arany 1d2 ¢ ×2 15 láb* 5 font Vágó Kard és Ököl
-			+4 Erő-bónusz 500 arany 1d2 ¢ ×2 15 láb* 6 font Vágó Kard és Ököl
-	Nagaika, hatalmas *
-		+1 Erő-bónusz 225 arany 1d6 ×3 15 láb* 5 font Vágó A Vadon Mesterei
-		+2 Erő-bónusz 325 arany 1d6 ×3 15 láb* 6 font Vágó A Vadon Mesterei
-		+3 Erő-bónusz 425 arany 1d6 ×3 15 láb* 7 font Vágó A Vadon Mesterei
-		+4 Erő-bónusz 525 arany 1d6 ×3 15 láb* 8 font Vágó A Vadon Mesterei
-	Tőrkorbács, hatalmas *
-		+1 Erő-bónusz 225 arany 1d6 19-20/×2 15 láb* 4 font Vágó Kard és Ököl
-		+2 Erő-bónusz 325 arany 1d6 19-20/×2 15 láb* 5 font Vágó Kard és Ököl
-		+3 Erő-bónusz 425 arany 1d6 19-20/×2 15 láb* 6 font Vágó Kard és Ököl
-		+4 Erő-bónusz 525 arany 1d6 19-20/×2 15 láb* 7 font Vágó Kard és Ököl
+		Korbács, hatalmas +1 Erő-bónusz	200 arany	1d2	x2	15 láb	3 font	Vágó	-
+		Korbács, hatalmas +2 Erő-bónusz	300 arany	1d2	x2	15 láb	4 font	Vágó	-
+		Korbács, hatalmas +3 Erő-bónusz	400 arany	1d2	x2	15 láb	5 font	Vágó	-
+		Korbács, hatalmas +4 Erő-bónusz	500 arany	1d2	x2	15 láb	6 font	Vágó	-
+		Nagaika, hatalmas +1 Erő-bónusz	225 arany	1d6	x3	15 láb	5 font	Vágó	-
+		Nagaika, hatalmas +2 Erő-bónusz	325 arany	1d6	x3	15 láb	6 font	Vágó	-
+		Nagaika, hatalmas +3 Erő-bónusz	425 arany	1d6	x3	15 láb	7 font	Vágó	-
+		Nagaika, hatalmas +4 Erő-bónusz	525 arany	1d6	x3	15 láb	8 font	Vágó	-
+		Tőrkorbács, hatalmas +1 Erő-bónusz	225 arany	1d6	19-20/x2	15 láb	4 font	Vágó	-
+		Tőrkorbács, hatalmas +2 Erő-bónusz	325 arany	1d6	19-20/x2	15 láb	5 font	Vágó	-
+		Tőrkorbács, hatalmas +3 Erő-bónusz	425 arany	1d6	19-20/x2	15 láb	6 font	Vágó	-
+		Tőrkorbács, hatalmas +4 Erő-bónusz	525 arany	1d6	19-20/x2	15 láb	7 font	Vágó	-
