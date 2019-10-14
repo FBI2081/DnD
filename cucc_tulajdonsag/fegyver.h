@@ -20,7 +20,7 @@ typedef struct
     e_fegyver_meret meret;
     //nev
     //ertek
-    Dobas sebzes;
+    Dobas sebzes[2];
     int krit_zona, krit_szorzo;
     int hatotav;
     //tomeg
