@@ -10,3 +10,5 @@ typedef struct
     int ertek;
     float tomeg;
 } Altalanos_tulajdonsag;
+
+void altalanos_tulajdonsag_nev_szetbont(char *tablai, char *cel_alap, char *cel_jel);
