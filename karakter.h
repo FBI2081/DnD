@@ -1,5 +1,8 @@
 //pls nem nyúlj hozzá, majd befejezem
 
+/* de azért nyugodtan gondolkodj el azon, hogy hogyan kéne megírni a structokon
+belüli számolófüggvényeket, mint pl. a hüvelyk -> láb */
+
 typedef struct
 {
     int lab;
@@ -33,12 +36,14 @@ typedef struct
 {
     int alap;
     e_tulajdonsag kapcsolodo_tulajdonsag;
+    int magikus;
+    int egyeb;
     int vegleges;// vegleges = alap_modosito + tulajdonsagok[kapcsolodo_tulajdonsag.modosito] + mágikus + egyéb;
 } mento;
 
 typedef enum
 {
-    NO, FERFI//igen csak nő vagy férfi lehet valaki
+    NO, FERFI //igen csak nő vagy férfi lehet valaki
 } e_nem;
 
 typedef struct
@@ -53,7 +58,8 @@ typedef struct
     int kor;
     e_nem nem;
     hossz magassag;
-    char szem[32];
-    char haj[32]; // ha nem tetszik, írd át
-    mento motok[3];// ide változónak az e_mento enum
+    char szem[32]; // ha nem tetszik írd át
+    char haj[32]; //  pl. lehetne mondjuk egy enum a szemhez és a magasséghoz is
+    mento mentok[3];// ide változónak az e_mento enum
+    //todo befejezni
 } karakter;
