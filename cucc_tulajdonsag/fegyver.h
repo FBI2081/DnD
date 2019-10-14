@@ -1,3 +1,5 @@
+#include "../kocka.h"
+
 typedef enum
 {
     EGYSZERU_KOZEL,  EGYSZERU_TAVOL,
