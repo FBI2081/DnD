@@ -1,5 +1,5 @@
 
-enum e_osztaly {ALTALANOS, FEGYVER, VERT, VARAZSTARGY};
+typedef enum {ALTALANOS, FEGYVER, VERT, VARAZSTARGY} e_osztaly;
 
 typedef struct
 {
