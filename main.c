@@ -8,34 +8,11 @@
 
 void ermek_generalasa(int szint)
 {
-    struct
-    {
-        struct
-        {
-            int min, max, db, oldal, szorzo;
-        }fajta[4];
-    }ermeszint[MAXLEVEL];
-    FILE *ermeadat = fopen("ermetabla.dat", "r");
-    for(int sz = 0; sz < MAXLEVEL; sz++)
-    {
-        for(int f = 0; f < 4; f++)
-        {
-            fscanf(ermeadat,
-                   "%d %d %d %d %d",
-                   &ermeszint[sz].fajta[f].min,
-                   &ermeszint[sz].fajta[f].max,
-                   &ermeszint[sz].fajta[f].db,
-                   &ermeszint[sz].fajta[f].oldal,
-                   &ermeszint[sz].fajta[f].szorzo
-            );
-        }
-    }
-    fclose(ermeadat);
-
+    //beolvasni az ermetablát
     int d100 = dob((Dobas){1, 100});
-    for(int f=3; f>=0; f--)
+    for(int i = 1; i <= 100; i++)
     {
-        if(d100>=ermeszint[szint].fajta[f].min)
+        if(d100>=)//táblázat megfelelő eleme
         {
             //todo inventoryhoz hozzáadni a megfelelőt.
             break;
