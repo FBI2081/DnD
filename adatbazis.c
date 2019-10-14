@@ -23,7 +23,7 @@ void adatbazis_urit(void)
 
 void adatbazis_fegyvertabla_beolvas(void)
 {
-    FILE *fegyvertabla_dat = fopen("fegyvertabla.dat", "r");
+    FILE *fegyvertabla_dat = fopen("minden_dat/fegyvertabla.dat", "r");
     char sor[256];
     e_fegyver_tipus fegyver_tipus;
     e_fegyver_meret fegyver_meret;
