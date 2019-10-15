@@ -27,7 +27,7 @@ void adatbazis_fegyvertabla_beolvas(void)
     char sor[256];
     e_fegyver_tipus fegyver_tipus;
     e_fegyver_meret fegyver_meret;
-    while(fscanf(fegyvertabla_dat, "%[^\n]", sor) != -1)
+    while(fscanf(fegyvertabla_dat, "%[^\n]\n", sor) != -1)
     {
         if(sor[0] != '\t')
         {
