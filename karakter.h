@@ -1,5 +1,8 @@
 //pls nem nyúlj hozzá, majd befejezem
 
+/* de azért nyugodtan gondolkodj el azon, hogy hogyan kéne megírni a structokon
+belüli számolófüggvényeket, mint pl. a hüvelyk -> láb */
+
 typedef struct
 {
     int lab;
@@ -13,6 +16,36 @@ typedef enum
     TORVENYES_GONOSZ, SEMLEGES_GONOSZ, KAOTIKUS_GONOSZ
 } e_jellem;
 
+typedef enum
+{
+    ERO, UGYESSEG, ALLOKEPESSEG, INTELLIGENCIA, BOLCSESSEG, KARIZMA;
+} e_tulajdonsag;
+
+typedef struct
+{
+    int ertek;
+    int modosito; //todo modosito = 10-től mért távolság/2 lefele kerekítve ha nagyobb mint 10 és felfele, ha kisebb
+} tulajdonsag;
+
+typedef enum
+{
+    SZIVOSSAG, GYORSASAG, AKARATERO
+} e_mento;
+
+typedef struct
+{
+    int alap;
+    e_tulajdonsag kapcsolodo_tulajdonsag;
+    int magikus;
+    int egyeb;
+    int vegleges;// vegleges = alap_modosito + tulajdonsagok[kapcsolodo_tulajdonsag.modosito] + mágikus + egyéb;
+} mento;
+
+typedef enum
+{
+    NO, FERFI //igen csak nő vagy férfi lehet valaki
+} e_nem;
+
 typedef struct
 {
     chart nev[64];
@@ -20,12 +53,13 @@ typedef struct
     char faj[16];
     int szint;
     int tapasztalati_pontok;
-    int ero, ugyesseg, allokepesseg, intelligencia, bolcsesseg, karizma;
+    tulajdonsag tulajdonsagok[6];//ide változónak az e_tulajdonsag enum
     //valami enum meret;
     int kor;
-    //valami enum nem (igen csak férfi vagy nő lehet valaki)
+    e_nem nem;
     hossz magassag;
-    char szem[32];
-    char haj[32]; // ha nem tetszik, írd át
-
+    char szem[32]; // ha nem tetszik írd át
+    char haj[32]; //  pl. lehetne mondjuk egy enum a szemhez és a magasséghoz is
+    mento mentok[3];// ide változónak az e_mento enum
+    //todo befejezni
 } karakter;
