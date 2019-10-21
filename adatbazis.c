@@ -92,7 +92,7 @@ void adatbazis_fegyvertabla_beolvas(void)
                 adatbazis.altalanos_tulajdonsag[azon_alt]->nev_jelzok
             );
             /* ertek */
-            char *mertekek = "reap"; //rez, ezust, arany, platina
+            char *mertekek = (char[]){'r', 'e', 'a', 'p'}; //rez, ezust, arany, platina
             for(int i = 0; i < 4 && ertek_mertek[0] != mertekek[i]; i++)
                 ertek_szam *= 10;
             adatbazis.altalanos_tulajdonsag[azon_alt]->ertek = ertek_szam;
