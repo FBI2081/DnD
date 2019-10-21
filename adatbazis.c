@@ -158,3 +158,72 @@ void adatbazis_fegyvertabla_beolvas(void)
     }
     fclose(fegyvertabla_dat);
 }
+
+void adatbazis_verttabla_beolvas(void)
+{
+    FILE *verttabla_dat = fopen("minden_dat/verttabla.dat", "r");
+    char sor[256];
+    e_vert_tipus vert_tipus;
+    int sebesseg_30_eseten;
+    int sebesseg_20_eseten;
+    int futas_szorzo;
+    while(fscanf(verttabla_dat, "%[^\n]\n", sor) != -1)
+    {
+        if(sor[0] != '\t')
+        {
+            char csunya_vert_tipus[16];
+            char csunya_sebesseg_30_eseten[8];
+            char csunya_sebesseg_20_eseten[8];
+            char csunya_futas_szorzo[4];
+            sscanf(sor, "%[^\t]\t%[^\t]\t%[^\t]\t%[^\t]\n",
+                csunya_vert_tipus[16],
+                csunya_sebesseg_30_eseten[8],
+                csunya_sebesseg_20_eseten[8],
+                csunya_futas_szorzo[4],
+            );
+            if(strcmp(csunya_vert_tipus, "Könnyű vértek") == 0)
+            {
+                vert_tipus = KONNYU;
+            }
+            else if(strcmp(csunya_vert_tipus, "Közepes vértek") == 0)
+            {
+                vert_tipus = KOZEPNEHEZ;
+            }
+            else if(strcmp(csunya_vert_tipus, "Nehéz vértek") == 0)
+            {
+                vert_tipus = NEHEZ;
+            }
+
+            if(strcmp(csunya_sebesseg_30_eseten, "-") == 0)
+            {
+                sebesseg_30_eseten = 30;
+            }
+            else
+            {
+                sscanf(csunya_sebesseg_30_eseten, "%d láb", &sebesseg_30_eseten);
+            }
+
+            if(strcmp(csunya_sebesseg_20_eseten, "-") == 0)
+            {
+                sebesseg_20_eseten = 20;
+            }
+            else
+            {
+                sscanf(csunya_sebesseg_20_eseten, "%d láb", &sebesseg_20_eseten);
+            }
+
+            if(strcmp(csunya_futas_szorzo, "-") == 0)
+            {
+                futas_szorzo = 4;
+            }
+            else
+            {
+                sscanf(csunya_futas_szorzo, "%dx", futas_szorzo);
+            }
+        }
+        else
+        {
+            sscanf(sor, "[^\t]\t%d %[^\t]\t")//todo befejezni
+        }
+    }
+}
