@@ -2,7 +2,7 @@
 #define VERT_H
 
 typedef enum {
-    KONNYU, KOZEPES, NEHEZ
+    KONNYU, KOZEPNEHEZ, NEHEZ
 } e_vert_tipus;
 
 typedef struct
