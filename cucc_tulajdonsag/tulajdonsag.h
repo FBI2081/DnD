@@ -1,6 +1,11 @@
 
 typedef enum {ALTALANOS, FEGYVER, VERT, VARAZSTARGY} e_osztaly;
 
+typedef enum
+{
+    POTTOM, KICSI, KOZEPES, NAGY, HATALMAS
+} e_targy_meret;
+
 typedef struct
 {
     char nev_alapveto[32];

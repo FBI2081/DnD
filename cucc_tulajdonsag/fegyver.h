@@ -1,4 +1,5 @@
 #include "../kocka.h"
+#include "tulajdonsag.h"
 
 typedef enum
 {
@@ -11,15 +12,10 @@ typedef enum
 #define ZUZO  0b010
 #define VAGO  0b001
 
-typedef enum
-{
-    POTTOM, KICSI, KOZEPES, NAGY, HATALMAS
-} e_fegyver_meret;
-
 typedef struct
 {
     e_fegyver_tipus tipus;
-    e_fegyver_meret meret;
+    e_targy_meret meret;
     //nev
     //ertek
     Dobas sebzes[2];
