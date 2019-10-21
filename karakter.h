@@ -1,3 +1,6 @@
+#ifndef KARAKTER_H
+#define KARAKTER_H
+
 //pls nem nyúlj hozzá, majd befejezem
 
 /* de azért nyugodtan gondolkodj el azon, hogy hogyan kéne megírni a structokon
@@ -63,3 +66,5 @@ typedef struct
     mento mentok[3];// ide változónak az e_mento enum
     //todo befejezni
 } karakter;
+
+#endif

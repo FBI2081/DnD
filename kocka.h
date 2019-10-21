@@ -1,3 +1,5 @@
+#ifndef KOCKA_H
+#define KOCKA_H
 
 typedef struct
 {
@@ -6,3 +8,5 @@ typedef struct
 } Dobas;
 
 int dob(Dobas d);
+
+#endif

@@ -1,3 +1,5 @@
+#ifndef TULAJDONSAG_H
+#define TULAJDONSAG_H
 
 typedef enum {ALTALANOS, FEGYVER, VERT, VARAZSTARGY} e_osztaly;
 
@@ -17,3 +19,5 @@ typedef struct
 } Altalanos_tulajdonsag;
 
 void altalanos_tulajdonsag_nev_szetbont(char *tablai, char *cel_alap, char *cel_jel);
+
+#endif

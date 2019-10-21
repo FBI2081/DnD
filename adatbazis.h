@@ -1,3 +1,6 @@
+#ifndef ADATBAZIS_H
+#define ADATBAZIS_H
+
 #include "cucc_tulajdonsag/tulajdonsag.h"
 #include "cucc_tulajdonsag/fegyver.h"
 #include "cucc_tulajdonsag/vert.h"
@@ -19,3 +22,5 @@ void adatbazis_inicializal(void);
 void adatbazis_urit(void);
 
 void adatbazis_fegyvertabla_beolvas(void);
+
+#endif

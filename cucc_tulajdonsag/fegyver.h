@@ -1,3 +1,6 @@
+#ifndef FEGYVER_H
+#define FEGYVER_H
+
 #include "../kocka.h"
 #include "tulajdonsag.h"
 
@@ -25,3 +28,5 @@ typedef struct
     char sebzes_tipus;
     int lovedek_azon;
 } Fegyver_tulajdonsag;
+
+#endif

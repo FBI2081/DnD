@@ -1,3 +1,5 @@
+#ifndef VERT_H
+#define VERT_H
 
 typedef enum {
     KONNYU, KOZEPES, NEHEZ
@@ -19,3 +21,5 @@ typedef struct
 {
     e_targy_meret meret;
 } Vert_tulajdonsag_dinamikus;
+
+#endif
