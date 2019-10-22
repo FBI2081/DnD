@@ -223,7 +223,25 @@ void adatbazis_verttabla_beolvas(void)
         }
         else
         {
-            sscanf(sor, "[^\t]\t%d %[^\t]\t")//todo befejezni
+            char csunya_nev[96];
+            int ertek_szam;
+            char ertek_mertek[8];
+            int vedelem_modosito;
+            int max_ugyesseg;
+            int modosito_vertben;
+            int varazslat_rontas_esely;
+            float tomeg
+            sscanf(sor, "\t%[^\t]\t%d %[^\t]\t+%d\t+%d\t%d\t%d\t%d font",
+                csunya_nev,
+                ertek_szam,
+                ertek_mertek,
+                vedelem_modosito,
+                max_ugyesseg;
+                modosito_vertben,
+                varazslat_rontas_esely,
+                tomeg
+            );//ez így elvileg már jó
+            //és most mi jön?
         }
     }
 }
